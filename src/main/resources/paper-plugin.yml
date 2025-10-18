@@ -1,7 +1,8 @@
-name: SingularityPlugin
+name: Elytra
 version: '1.0-SNAPSHOT'
-main: com.example.SingularityPlugin
+main: com.github.pinont.Core
 api-version: '1.21'
-prefix: Singularity
+prefix: ELYTRA
 load: STARTUP
-description: A plugin template for MC Plugin development with SingularityLib
+description: A plugin that enhance elytra mechanics for minigames.
+author: pinont_

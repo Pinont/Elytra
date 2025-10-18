@@ -1,8 +1,8 @@
-package com.example;
+package com.github.pinont;
 
 import com.github.pinont.singularitylib.plugin.CorePlugin;
 
-public final class SingularityPlugin extends CorePlugin {
+public final class Core extends CorePlugin {
 
     @Override
     public void onPluginStart() {
