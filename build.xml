@@ -1,0 +1,5 @@
+<project name="deploy" basedir=".">
+    <target name="deploy-plugin" description="Copy plugin jar to plugins dir">
+        <copy file="target/elytra-1.0-SNAPSHOT.jar" todir="D:\AeroMC\server-nodes\elytra\plugins" overwrite="true"/>
+    </target>
+</project>
